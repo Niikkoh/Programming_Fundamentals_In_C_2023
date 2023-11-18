@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694722606 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\comparaparte2\compara.c
+	"compara.h"
+
+1694722211 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\comparaparte2\compara.h
+
+1694722620 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\comparaparte2\main.c
+	<stdio.h>
+	"compara.h"
+

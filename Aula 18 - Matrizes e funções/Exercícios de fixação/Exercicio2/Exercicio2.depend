@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698934257 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio2\matrix_lib.c
+	<stdio.h>
+	"matrix_lib.h"
+
+1698933801 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio2\matrix_lib.h
+
+1698933807 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"matrix_lib.h"
+

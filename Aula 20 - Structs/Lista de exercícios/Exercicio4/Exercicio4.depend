@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700084519 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicio4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rpg_lib.h"
+
+1700084177 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicio4\rpg_lib.h
+

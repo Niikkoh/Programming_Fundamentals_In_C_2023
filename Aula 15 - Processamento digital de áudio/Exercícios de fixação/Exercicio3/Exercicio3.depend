@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697741810 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\exercícios de fixação\exercicio3\super_string.c
+	<stdio.h>
+	"super_string.h"
+
+1697740986 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\exercícios de fixação\exercicio3\super_string.h
+
+1697741613 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\exercícios de fixação\exercicio3\main.c
+	"super_string.h"
+

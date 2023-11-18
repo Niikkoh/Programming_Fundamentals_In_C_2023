@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700007740 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\aulas\exercicio3\main.c
+	"horario.h"
+
+1700007852 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\aulas\exercicio3\horario.h
+
+1700007786 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\aulas\exercicio3\horario.c
+	<stdio.h>
+	"horario.h"
+

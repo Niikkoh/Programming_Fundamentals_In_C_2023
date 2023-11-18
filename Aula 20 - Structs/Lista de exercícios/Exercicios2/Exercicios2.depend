@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700068197 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios2\image_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"image_lib.h"
+
+1700068818 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios2\image_lib.h
+
+1700068821 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"image_lib.h"
+

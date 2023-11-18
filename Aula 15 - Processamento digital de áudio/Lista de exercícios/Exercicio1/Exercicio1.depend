@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697743917 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio1\sapos_insanos.c
+	<stdio.h>
+	"sapos_insanos.h"
+
+1697743517 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio1\sapos_insanos.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695476296 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio1\main.c
+	<stdio.h>
+	"search.h"
+
+1695476017 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio1\search.h
+
+1695476302 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio1\search.c
+	"search.h"
+

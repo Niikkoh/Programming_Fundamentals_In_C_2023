@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695489566 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	"cebolinha.h"
+
+1695488581 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio3\cebolinha.h
+
+1695489987 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio3\cebolinha.c
+	"cebolinha.h"
+

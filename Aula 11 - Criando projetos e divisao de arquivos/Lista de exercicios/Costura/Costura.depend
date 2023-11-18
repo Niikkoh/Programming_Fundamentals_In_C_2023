@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694717503 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\costura\costura.c
+	<stdio.h>
+	"costura.h"
+
+1694715728 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\costura\costura.h
+
+1694718398 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\costura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"costura.h"
+

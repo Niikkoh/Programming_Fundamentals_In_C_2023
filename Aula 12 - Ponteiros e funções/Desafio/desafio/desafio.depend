@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1694811976 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\desafio\desafio\animais_mov.c
+	"animais_mov.h"
+
+1694810513 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\desafio\desafio\animais_mov.h
+
+1694812018 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\desafio\desafio\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"animais_mov.h"
+

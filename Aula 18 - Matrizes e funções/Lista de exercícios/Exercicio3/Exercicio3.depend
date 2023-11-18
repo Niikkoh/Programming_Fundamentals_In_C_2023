@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698955861 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	"atapi.h"
+
+1698954472 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio3\atapi.h
+
+1698955773 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio3\atapi.c
+	<stdio.h>
+	"atapi.h"
+

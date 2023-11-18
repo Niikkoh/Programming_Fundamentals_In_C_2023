@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700010241 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios1\ordene.c
+	"ordene.h"
+
+1700010137 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios1\ordene.h
+
+1700010280 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicios1\main.c
+	<stdio.h>
+	"ordene.h"
+

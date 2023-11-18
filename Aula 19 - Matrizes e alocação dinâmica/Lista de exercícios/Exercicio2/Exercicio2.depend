@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699566240 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\lista de exercícios\exercicio2\dados_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dados_lib.h"
+
+1699566557 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\lista de exercícios\exercicio2\dados_lib.h
+
+1699566518 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\lista de exercícios\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dados_lib.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694808751 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	"k_lab.h"
+
+1694806544 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\lista de exercícios\exercicio3\k_lab.h
+
+1694808359 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\lista de exercícios\exercicio3\k_lab.c
+	<stdio.h>
+	"k_lab.h"
+

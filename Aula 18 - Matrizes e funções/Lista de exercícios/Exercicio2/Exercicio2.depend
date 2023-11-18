@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698945546 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio2\main.c
+	"reflexo.h"
+
+1698945645 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio2\reflexo.h
+
+1698945447 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio2\reflexo.c
+	<stdio.h>
+	"reflexo.h"
+

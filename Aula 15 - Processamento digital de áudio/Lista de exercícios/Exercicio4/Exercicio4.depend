@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697753072 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio4\decrease_lib.c
+	"decrease_lib.h"
+
+1697751359 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio4\decrease_lib.h
+
+1697753027 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio4\main.c
+	<stdio.h>
+	"decrease_lib.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699559161 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\exercício de verificação\exercicio 1\main.c
+	"pascal.h"
+
+1699559039 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\exercício de verificação\exercicio 1\pascal.h
+
+1699559347 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 19 - matrizes e alocação dinâmica\exercício de verificação\exercicio 1\pascal.c
+	<stdio.h>
+	<stdlib.h>
+	"pascal.h"
+

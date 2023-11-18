@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698932135 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio1\main.c
+	<stdio.h>
+	"simetria_lib.h"
+
+1698932104 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio1\simetria_lib.h
+
+1698932232 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\aulas\exercicio1\simetria_lib.c
+	"simetria_lib.h"
+

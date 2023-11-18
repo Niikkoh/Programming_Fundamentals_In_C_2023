@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695307112 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 13 - vetores\lista de exercícios\exercicio3\foolano.c
+	"foolano.h"
+
+1695306655 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 13 - vetores\lista de exercícios\exercicio3\foolano.h
+
+1695307259 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 13 - vetores\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"foolano.h"
+

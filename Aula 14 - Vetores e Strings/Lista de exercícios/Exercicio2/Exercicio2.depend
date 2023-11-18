@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695483838 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vektor.h"
+
+1695482651 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio2\vektor.h
+
+1695483587 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio2\vektor.c
+	<stdio.h>
+	<stdlib.h>
+	"vektor.h"
+

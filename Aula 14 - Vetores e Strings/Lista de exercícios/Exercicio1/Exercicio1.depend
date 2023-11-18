@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695479646 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio1\main.c
+	<stdio.h>
+	"gabarito.h"
+
+1695479339 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio1\gabarito.h
+
+1695479654 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio1\gabarito.c
+	"gabarito.h"
+

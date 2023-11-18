@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697754267 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5.c\labiritinte.c
+	"labiritinte.h"
+
+1697754440 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5.c\labiritinte.h
+
+1697754430 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5.c\main.c
+	<stdio.h>
+	"labiritinte.h"
+
+1697754466 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5\main.c
+	<stdio.h>
+	"Labiritinte.h"
+
+1697754454 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5\labiritinte.h
+
+1697754618 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 15 - processamento digital de áudio\lista de exercícios\exercicio5\labiritinte.c
+	"labiritinte.h"
+

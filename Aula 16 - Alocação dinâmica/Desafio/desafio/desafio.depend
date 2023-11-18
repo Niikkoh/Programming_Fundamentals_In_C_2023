@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698104943 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\desafio\desafio\primo_lib.c
+	<stdio.h>
+	"primo_lib.h"
+
+1698104376 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\desafio\desafio\primo_lib.h
+
+1698104896 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\desafio\desafio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"primo_lib.h"
+

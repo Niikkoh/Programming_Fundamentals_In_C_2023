@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697840397 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	"parentisu.h"
+
+1697839100 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio3\parentisu.h
+
+1697840532 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio3\parentisu.c
+	"parentisu.h"
+

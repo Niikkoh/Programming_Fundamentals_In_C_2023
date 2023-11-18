@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694721077 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\identificarpadrao\registra_dados.c
+	<stdio.h>
+	"registra_dados.h"
+
+1694721534 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\identificarpadrao\registra_dados.h
+
+1694721509 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\lista de exercicios\identificarpadrao\main.c
+	"registra_dados.h"
+

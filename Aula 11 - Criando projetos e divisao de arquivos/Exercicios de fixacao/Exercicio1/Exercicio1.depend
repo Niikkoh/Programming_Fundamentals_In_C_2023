@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694708475 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\exercicios de fixacao\exercicio1\main.c
+	<stdio.h>
+	"add_math.h"
+
+1694708856 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\exercicios de fixacao\exercicio1\add_math.c
+	<stdio.h>
+	"add_math.h"
+
+1694707961 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 11 - criando projetos e divisao de arquivos\exercicios de fixacao\exercicio1\add_math.h
+

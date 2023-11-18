@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694795445 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\exercícios de fixação\exercicio3\media_math.c
+	<stdio.h>
+	"media_math.h"
+
+1694794804 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\exercícios de fixação\exercicio3\media_math.h
+
+1694795388 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 12 - ponteiros e funções\exercícios de fixação\exercicio3\main.c
+	<stdio.h>
+	"media_math.h"
+

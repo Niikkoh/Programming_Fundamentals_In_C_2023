@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697834127 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"text.h"
+
+1697832088 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio2.c\text.h
+
+1697834499 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio2.c\text.c
+	<stdlib.h>
+	<stdio.h>
+	"text.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695477472 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio3\main.c
+	<stdio.h>
+	"palidrox.h"
+
+1695477582 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio3\palidrox.c
+	<string.h>
+	"palidrox.h"
+
+1695476624 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\exercícios de fixação\exercicio3\palidrox.h
+

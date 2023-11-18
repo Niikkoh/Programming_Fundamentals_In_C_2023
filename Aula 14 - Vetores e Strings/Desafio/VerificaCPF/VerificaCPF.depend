@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695520965 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\desafio\verificacpf\main.c
+	<stdio.h>
+	"cpf_lib.h"
+
+1695521451 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\desafio\verificacpf\cpf_lib.c
+	"cpf_lib.h"
+
+1695519679 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\desafio\verificacpf\cpf_lib.h
+

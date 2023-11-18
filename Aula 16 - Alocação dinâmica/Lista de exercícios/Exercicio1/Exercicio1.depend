@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697831425 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio1\pack_string.c
+	<stdlib.h>
+	"pack_string.h"
+
+1697830898 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio1\pack_string.h
+
+1697831473 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\lista de exercícios\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pack_string.h"
+

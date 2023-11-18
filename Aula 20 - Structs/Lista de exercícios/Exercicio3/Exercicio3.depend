@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700079149 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prova.h"
+
+1700079249 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicio3\prova.h
+
+1700079219 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 20 - structs\lista de exercícios\exercicio3\prova.c
+	<stdio.h>
+	<stdlib.h>
+	"prova.h"
+

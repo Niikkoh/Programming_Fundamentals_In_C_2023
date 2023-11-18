@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698937628 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\exercícios de fixação\exercicio3\main.c
+	<stdio.h>
+	"pompeia.h"
+
+1698936812 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\exercícios de fixação\exercicio3\pompeia.h
+
+1698937597 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\exercícios de fixação\exercicio3\pompeia.c
+	"pompeia.h"
+

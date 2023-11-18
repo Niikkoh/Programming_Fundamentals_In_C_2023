@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698940933 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio1\main.c
+	"inca_lib.h"
+
+1698941244 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio1\inca_lib.h
+
+1698941204 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 18 - matrizes e funções\lista de exercícios\exercicio1\inca_lib.c
+	<stdio.h>
+	"inca_lib.h"
+

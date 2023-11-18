@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695517860 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio4\main.c
+	<stdio.h>
+
+1695518562 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio4\risoslib.c
+	<string.h>
+	"risoslib.h"
+
+1695518066 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 14 - vetores e strings\lista de exercícios\exercicio4\risoslib.h
+

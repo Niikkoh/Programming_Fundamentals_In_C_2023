@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697829140 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\exercícios de fixação\exercicio2\vektor.c
+	<stdlib.h>
+	"vektor.h"
+
+1697829102 c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\exercícios de fixação\exercicio2\vektor.h
+
+1697829335 source:c:\users\usuario\desktop\faculdade\cursos\fundamentos da programacao\aula 16 - alocação dinâmica\exercícios de fixação\exercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vektor.h"
+
